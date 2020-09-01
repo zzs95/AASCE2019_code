@@ -18,4 +18,4 @@ torchvision==0.4.0
 
 
 
-Our pretrain models are in 链接：https://pan.baidu.com/s/1Xo1Fm9C1JT3gS3O7KP8Gsw 提取码：ij8j.
+Our pretrained models are in 链接：https://pan.baidu.com/s/1Xo1Fm9C1JT3gS3O7KP8Gsw 提取码：ij8j.
