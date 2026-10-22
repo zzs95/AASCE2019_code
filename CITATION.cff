@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the published conference paper in preferred-citation."
+type: software
+title: "AASCE2019: Coarse-to-Fine Spinal Landmark Detection"
+authors:
+  - family-names: Zhong
+    given-names: Zhusi
+  - family-names: Li
+    given-names: Jie
+  - family-names: Zhang
+    given-names: Zhenxi
+  - family-names: Jiao
+    given-names: Zhicheng
+  - family-names: Gao
+    given-names: Xinbo
+repository-code: "https://github.com/zzs95/AASCE2019_code"
+url: "https://github.com/zzs95/AASCE2019_code"
+preferred-citation:
+  type: conference-paper
+  title: "A Coarse-to-Fine Deep Heatmap Regression Method for Adolescent Idiopathic Scoliosis Assessment"
+  authors:
+    - family-names: Zhong
+      given-names: Zhusi
+    - family-names: Li
+      given-names: Jie
+    - family-names: Zhang
+      given-names: Zhenxi
+    - family-names: Jiao
+      given-names: Zhicheng
+    - family-names: Gao
+      given-names: Xinbo
+  collection-title: "Computational Methods and Clinical Applications for Spine Imaging"
+  collection-type: proceedings
+  volume: 11963
+  start: 101
+  end: 106
+  year: 2020
+  date-published: "2020-02-01"
+  publisher:
+    name: "Springer, Cham"
+  doi: "10.1007/978-3-030-39752-4_12"
+  url: "https://doi.org/10.1007/978-3-030-39752-4_12"

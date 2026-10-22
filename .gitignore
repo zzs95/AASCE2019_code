@@ -1,0 +1,32 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Training outputs and model weights
+/saved_model/
+/checkpoints/
+/runs/
+/wandb/
+*.pth
+*.pt
+*.ckpt
+*.params
+*.onnx
+
+# Keep new dataset files and generated images out of source commits.
+# Previously tracked public examples remain tracked.
+/data/
+/datasets/
+/boostnet_labeldata/
+/peeling_pred1/
+*.mat
+*.npy

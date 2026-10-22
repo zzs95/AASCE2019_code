@@ -1,0 +1,8 @@
+# Tested on Windows / Python 3.12 with the CPU wheels of this matched pair.
+# For CUDA, install the same pair using the index for your CUDA runtime first.
+torch==2.6.0
+torchvision==0.21.0
+numpy>=1.26,<3
+scipy>=1.12,<2
+Pillow>=10,<13
+opencv-python>=4.9,<6
