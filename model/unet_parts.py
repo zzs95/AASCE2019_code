@@ -3,7 +3,6 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-torch.set_default_tensor_type('torch.FloatTensor')
 
 
 class double_conv(nn.Module):

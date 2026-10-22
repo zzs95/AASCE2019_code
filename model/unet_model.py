@@ -2,7 +2,6 @@
 
 
 from .unet_parts import *
-torch.set_default_tensor_type('torch.FloatTensor')
 
 class UNet(nn.Module):
     def __init__(self, n_channels, n_classes):
